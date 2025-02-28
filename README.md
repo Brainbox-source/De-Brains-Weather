@@ -1,8 +1,16 @@
-# React + Vite
+# 🌤 De-Brains Weather Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and modern weather web application built with React and Tailwind CSS, providing real-time weather updates with user authentication for personalized access.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- 🌎 Search by City – Get instant weather details for any location.
+- 🔐 User Authentication – Sign up and log in using an access token system.
+- 🔑 Authorization – Only registered users can search for weather data.
+-🌡 Current Weather – Displays temperature, humidity, wind speed, and more.
+- 🎨 Clean UI – Minimalistic and responsive design using Tailwind CSS.
+- 🔄 Live Updates – Fetches real-time data using a weather API.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech Stack
+- **Frontend**: React, Tailwind CSS
+- **Backend**: Node.js
+- **API**: OpenWeather API 
